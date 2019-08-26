@@ -1,5 +1,5 @@
 # Chuck Norris Fact Generator: A simple API project
-[Link to the Project: Vivisection Page](https://projectvivisection.netlify.com) 
+[Link to the Project: Chuck Norris Fact Generator](https://frosty-mcnulty-3fc81d.netlify.com/https://projectvivisection.netlify.com) 
 
 ___
 <img width="1273" alt="Screen Shot 2019-08-25 at 9 08 56 PM" src="https://user-images.githubusercontent.com/49502261/63658959-a0410a80-c77c-11e9-9cf2-af18ba841378.png">
