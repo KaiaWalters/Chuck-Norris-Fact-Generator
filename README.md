@@ -2,7 +2,7 @@
 [Link to the Project: Vivisection Page](https://projectvivisection.netlify.com) 
 
 ___
-<img width="1263" alt="Screen Shot 2019-08-25 at 3 20 34 PM" src="https://user-images.githubusercontent.com/49502261/63658412-522a0800-c778-11e9-837a-5b1d57c44a3c.png">
+<img width="1273" alt="Screen Shot 2019-08-25 at 9 08 56 PM" src="https://user-images.githubusercontent.com/49502261/63658959-a0410a80-c77c-11e9-9cf2-af18ba841378.png">
 
 Generates fun "facts" about actor Chuck Norris
 
