@@ -11,7 +11,7 @@ The application is built using HTML, CSS, JavaScript, Node.js, express, and an e
 
 
 ## Reflections
-In the future I would like to find a way to make the speech bubble wrap around the generated text better. Upon reflection I could have created a speech bubble using HTML and CSS rather than a png. Will definitely get back to this. I think it ould also be cool if I could filter out distasteful Chuck Norris facts. Maybe by searching for Keywords in the api response. 
+In the future I would like to find a way to make the speech bubble wrap around the generated text better. Upon reflection I could have created a speech bubble using HTML and CSS rather than with a png. I think it would also be cool if I could filter out distasteful Chuck Norris facts. Maybe by searching for Keywords in the api response. 
 
 ## Installation
 * Clone repo
